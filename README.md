@@ -4,7 +4,7 @@ Desenvolvimento, integração, tecnologia, burguer e beer são palavras que nem 
 
 [Wiz Tech Day](https://bit.ly/2HRUZFD)
 
-![global](https://github.com/sidneyocirqueira/wiztechday2019/blob/master/img/banner-holder.png)
+![global](https://github.com/sidneyocirqueira/wiztechday2019/blob/master/img)
 
 ## Sumário
 * [Key Note](#palestra)
@@ -15,7 +15,7 @@ Desenvolvimento, integração, tecnologia, burguer e beer são palavras que nem 
 
 ## Key Note
 * Fundamentos em Nuvem 
-[Fundamentos em nuvem.pdf](https://github.com/sidneyocirqueira/gab2019-uberlandia-devops-sqldb/tree/master/pdf)
+[Fundamentos em nuvem.pdf](https://github.com/sidneyocirqueira/wiztechday2019/blob/master/pdf/Fundamentos%20em%20Nuvem.pdf)
 
 ## Integrantes
 1. [Pedro Barbosa](https://www.linkedin.com/in/pedro-henrique-teixeira-barbosa-2a99a065/) 
