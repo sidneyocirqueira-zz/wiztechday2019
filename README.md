@@ -4,7 +4,7 @@ Desenvolvimento, integração, tecnologia, burguer e beer são palavras que nem 
 
 [Wiz Tech Day](https://bit.ly/2HRUZFD)
 
-![global](https://github.com/sidneyocirqueira/wiztechday2019/blob/master/img)
+![global](https://github.com/sidneyocirqueira/wiztechday2019/blob/master/img/banner-holder.png)
 
 ## Sumário
 * [Key Note](#palestra)
