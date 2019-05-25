@@ -16,9 +16,7 @@ A Wiz é um celeiro de pessoas phodas e todo mundo já sabe! Agora, imagina quan
 * [Referências](#referencias)
 
 ## Key Note
-* Fundamentos em Nuvem
-
-  [Fundamentos em nuvem.pdf](https://github.com/sidneyocirqueira/wiztechday2019/blob/master/pdf/Fundamentos%20em%20Nuvem.pdf)
+*  [Fundamentos em nuvem.pdf](https://github.com/sidneyocirqueira/wiztechday2019/blob/master/pdf/Fundamentos%20em%20Nuvem.pdf)
 
 ## Integrantes
 1. [Pedro Barbosa](https://www.linkedin.com/in/pedro-henrique-teixeira-barbosa-2a99a065/) 
@@ -26,9 +24,7 @@ A Wiz é um celeiro de pessoas phodas e todo mundo já sabe! Agora, imagina quan
 
 
 ## Palestra
-* Fundamentos de SQL Database e SQL Data Warehouse
-
-  [Fundamentos de SQL Database e SQL DataWarehouse.pdf](https://github.com/sidneyocirqueira/wiztechday2019/blob/master/pdf/Fundamentos%20de%20SQL%20Database%20e%20SQL%20Data%20Warehouse.pdf)
+*  [Fundamentos de SQL Database e SQL DataWarehouse.pdf](https://github.com/sidneyocirqueira/wiztechday2019/blob/master/pdf/Fundamentos%20de%20SQL%20Database%20e%20SQL%20Data%20Warehouse.pdf)
 
 ## Integrantes Palestra
 1. [Raphael Brito](https://www.linkedin.com/in/raphael-brito-0972a434/) 
