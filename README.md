@@ -1,8 +1,8 @@
 # Wiz Tech Day - Burger&Beer
 
 Desenvolvimento, integração, tecnologia, burguer e beer são palavras que nem sempre são utilizadas em um mesmo contexto, porém no sábado (25/05) elas estarão todas juntas. 
-
-[Wiz Tech Day](https://bit.ly/2HRUZFD)
+A Wiz é um celeiro de pessoas phodas e todo mundo já sabe! Agora, imagina quando se juntarem para trocar ideia sobre um assunto, com certeza vem coisa boa por aí... 
+[Grade de palestras Wiz Tech Day:](https://bit.ly/2HRUZFD)
 
 ![global](https://github.com/sidneyocirqueira/wiztechday2019/blob/master/img/banner-holder.png)
 
