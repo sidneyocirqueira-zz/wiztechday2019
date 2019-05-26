@@ -18,7 +18,7 @@ A Wiz é um celeiro de pessoas phodas e todo mundo já sabe! Agora, imagina quan
 ## Key Note
 * Apresentação: [Fundamentos em nuvem.pdf](https://github.com/sidneyocirqueira/wiztechday2019/blob/master/pdf/Fundamentos%20em%20Nuvem.pdf)
 * Título: Fundamentos em Azure  
-* Resumo:  O que são essas tais nuvens que todo mundo fala!? Falamos um pouco do que é a Nuvem da Microsoft que utilizamos na [Wiz Soluções](https://github.com/wizsolucoes) e os benefícios do Azure para aceleração do nosso negócio. 
+* Resumo:  O que são essas tais nuvens que todo mundo fala!? Falamos um pouco do que é a Nuvem da Microsoft que utilizamos na [Wiz Soluções](https://www.wizsolucoes.com.br) e os benefícios do Azure para aceleração do nosso negócio. 
 * Público: Toda instituição.
 *	Nível: Iniciante / Introdutório. 
 
@@ -50,6 +50,7 @@ A Wiz é um celeiro de pessoas phodas e todo mundo já sabe! Agora, imagina quan
 * Arquitetura MPP: https://docs.microsoft.com/en-us/azure/sql-data-warehouse/massively-parallel-processing-mpp-architecture
 * Treinamento Azure SQLDB: https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/
 * Treinamento Azure SQLDW: https://docs.microsoft.com/en-us/learn/paths/implement-sql-data-warehouse/
+* GitHub Wiz Soluções: https://github.com/wizsolucoes
 
 
 
