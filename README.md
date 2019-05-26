@@ -41,7 +41,7 @@ A Wiz é um celeiro de pessoas phodas e todo mundo já sabe! Agora, imagina quan
 
 ## Referências 
 * Criar conta gratuita: https://azure.microsoft.com/en-us/free/
-* Documentação Microsoft: https://docs.microsoft.com/azure
+* Documentação Microsoft Azure: https://docs.microsoft.com/azure
 * Microsoft Learn - Azure Fundamentals: https://docs.microsoft.com/learn/paths/azure-fundamentals
 * Documentação Microsoft: https://azure.microsoft.com/en-in/services/sql-database/
 * SQL Server x Azure SQL Database: https://docs.microsoft.com/en-us/azure/sql-database/sql-database-paas-vs-sql-server-iaas
