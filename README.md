@@ -9,7 +9,7 @@ A Wiz é um celeiro de pessoas phodas e todo mundo já sabe! Agora, imagina quan
 ![global](https://github.com/sidneyocirqueira/wiztechday2019/blob/master/img/banner-holder.png)
 
 ## Sumário
-* [Key Note](#palestra)
+* [Key Note](#keynote)
 * [Integrantes](#integrantes)
 * [Palestra](#instrucoes)
 * [Integrantes](#integrantespalestra)
